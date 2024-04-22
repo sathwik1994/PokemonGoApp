@@ -15,4 +15,4 @@ To install and run the app, follow the following steps:
 1. Clone the repository using `git clone <reop-url>`
 2. Install node modules using `npm install`
 3. Run the app using `npx react-native start`
-4. Click a to run in  android or i to run on ios
+4. Click `a` to run in  android or `i` to run on ios
