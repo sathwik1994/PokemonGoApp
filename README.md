@@ -16,3 +16,16 @@ To install and run the app, follow the following steps:
 2. Install node modules using `npm install`
 3. Run the app using `npx react-native start`
 4. Click `a` to run in  android or `i` to run on ios
+
+## Demo Screenshots
+Here are the demo screenshots of the App
+
+<img width="292" alt="Screenshot 2024-04-22 at 5 07 52 PM" src="https://github.com/sathwik1994/PokemonGoApp/assets/35265568/9e092e95-14a5-43e4-93c8-9daaf8734905">
+
+<img width="305" alt="Screenshot 2024-04-22 at 5 08 14 PM" src="https://github.com/sathwik1994/PokemonGoApp/assets/35265568/7083f3c0-a7d7-4cb2-a881-09c69c2a8361">
+
+<img width="297" alt="Screenshot 2024-04-22 at 5 08 27 PM" src="https://github.com/sathwik1994/PokemonGoApp/assets/35265568/ad807645-c445-4acf-b792-ce4c5e971463">
+
+<img width="292" alt="Screenshot 2024-04-22 at 5 08 46 PM" src="https://github.com/sathwik1994/PokemonGoApp/assets/35265568/09e3ea5d-e6d4-4df7-8ea0-0c611ed34feb">
+
+<img width="312" alt="Screenshot 2024-04-22 at 5 08 55 PM" src="https://github.com/sathwik1994/PokemonGoApp/assets/35265568/ae7872d7-871f-4ed6-88b8-5ba5169296b6">
